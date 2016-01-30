@@ -1,4 +1,5 @@
 # Idea
 New project for messing around with random ideas
 
-https://travis-ci.org/gmkeith/idea.svg?branch=master
+### Status
+[![Build Status](https://travis-ci.org/gmkeith/idea.svg?branch=master)](https://travis-ci.org/gmkeith/idea)
